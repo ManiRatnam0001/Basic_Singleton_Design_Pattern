@@ -19,7 +19,7 @@ Last block of code shows attempts to rate limit the requests thrown from users e
 
 ENUM
 
-Enum is said to be one of the best ways to create singleton in many programming language
+Enum is said to be one of the best ways to create singleton in many programming languages.
 
 
 
